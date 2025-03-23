@@ -1,3 +1,3 @@
 # learn-go
 
-Basic go projects
+Learn some basic go projects
